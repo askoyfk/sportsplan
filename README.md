@@ -1,4 +1,4 @@
 Askøy Fotballklubbs Sportsplan
 ==============================
 
-Les sportsplanen i [wikien](wiki)
+Les sportsplanen i [wikien](https://github.com/askoyfk/sportsplan/wiki)
